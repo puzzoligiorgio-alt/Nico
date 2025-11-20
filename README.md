@@ -1,6 +1,6 @@
 # Nico  
 **Cybersecurity & Linux Enthusiast**
-
+![Cat GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRzaWRqOXhpYjNkMjI1d2RsODM3aXBpemJxNTJsZTlrbjdqN2Q2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
 ---
 
 ## Chi sono
