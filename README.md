@@ -9,7 +9,10 @@ Studio presso **ENAIP Torino – Via del Ridotto 5**.
 Attualmente sto studiando anche **SQL**.
 
 📍 **Posizione scuola:**  
-[Visualizza su Google Maps](https://www.google.com/maps/@45.0950306,7.6537364,19z)
+
+[![Mappa ENAIP Torino](https://maps.googleapis.com/maps/api/staticmap?center=45.0950306,7.6537364&zoom=17&size=400x300&markers=color:red%7C45.0950306,7.6537364)](https://www.google.com/maps/place/Via+del+Ridotto+5,+Torino)
+
+*Clicca sulla mappa per aprirla su Google Maps.*
 
 ---
 
@@ -45,6 +48,4 @@ Attualmente sto studiando anche **SQL**.
 
 ## Contatti
 - GitHub: [puzzoligiorgio-alt](https://github.com/puzzoligiorgio-alt)  
-- Email: puzzoligiorgio@gmail.com  
-
 - Email: puzzoligiorgio@gmail.com  
