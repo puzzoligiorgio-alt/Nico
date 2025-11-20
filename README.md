@@ -33,7 +33,7 @@ Attualmente sto studiando anche **SQL**.
 ---
 
 ## Progetti
-*SOON*
+SOON
 ---
 
 ## Statistiche GitHub
