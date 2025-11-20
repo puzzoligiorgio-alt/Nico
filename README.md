@@ -18,26 +18,22 @@ Attualmente sto studiando anche **SQL**.
 
 ## Competenze
 - **Sistemi Operativi:** Debian, Kali Linux, Parrot OS, Omarchy  
-- **Linguaggi:** Python, Bash, JavaScript, HTML/CSS, SQL  
-- **Strumenti:** Git, VS Code, VirtualBox  
+- **Linguaggi:** Python, Bash, HTML/CSS, SQL  
+- **Strumenti:** Git, VS Code,
 
 ---
 
 ## Cybersecurity Toolkit
-- Recon: nmap, whois, dnsenum  
+- Recon: nmap, whois
 - Web Security: burpsuite, gobuster, nikto  
-- Bruteforce: hydra, medusa  
+- Bruteforce: hydra 
 - Wireless: aircrack-ng, besside-ng  
-- Forensics: strings, binwalk, autopsy  
 - Network: curl, netcat, tcpdump  
 
 ---
 
 ## Progetti
-- [Automazione Scripts](https://github.com/puzzoligiorgio-alt/automazione-scripts)  
-- [Security Tools](https://github.com/puzzoligiorgio-alt/security-tools)  
-- [Web Mini Projects](https://github.com/puzzoligiorgio-alt/web-mini-projects)  
-
+*SOON*
 ---
 
 ## Statistiche GitHub
