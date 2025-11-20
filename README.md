@@ -1,17 +1,21 @@
-# Nico 
+# Nico  
 **Cybersecurity & Linux Enthusiast**
 
 ---
 
 ## Chi sono
 Appassionato di Linux, cybersecurity e scripting.  
-Studio presso **ENAIP Torino – Via del Ridotto 5**.
+Studio presso **ENAIP Torino – Via del Ridotto 5**.  
+Attualmente sto studiando anche **SQL**.
+
+📍 **Posizione scuola:**  
+[Visualizza su Google Maps](https://www.google.com/maps/@45.0950306,7.6537364,19z)
 
 ---
 
 ## Competenze
 - **Sistemi Operativi:** Debian, Kali Linux, Parrot OS, Omarchy  
-- **Linguaggi:** Python, Bash, JavaScript, HTML/CSS  
+- **Linguaggi:** Python, Bash, JavaScript, HTML/CSS, SQL  
 - **Strumenti:** Git, VS Code, VirtualBox  
 
 ---
@@ -41,4 +45,6 @@ Studio presso **ENAIP Torino – Via del Ridotto 5**.
 
 ## Contatti
 - GitHub: [puzzoligiorgio-alt](https://github.com/puzzoligiorgio-alt)  
+- Email: puzzoligiorgio@gmail.com  
+
 - Email: puzzoligiorgio@gmail.com  
