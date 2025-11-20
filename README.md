@@ -21,20 +21,21 @@ Attualmente sto studiando SQL.
 ---
 
 ## 🧩 Competenze
-- **Sistemi Operativi:** Debian, Kali Linux, Parrot OS, Omarchy  
-- **Linguaggi:** Python, Bash, JavaScript, HTML/CSS, SQL  
-- **Strumenti:** Git, VS Code, VirtualBox  
+- **Sistemi Operativi:** Debian, Kali Linux, Parrot OS, Omarchy, CachyOs   
+- **Linguaggi:** Python, Bash, HTML/CSS, SQL  
+- **Strumenti:** Git, VS Code
 
 ---
 
 ## 🛠️ Cybersecurity Toolkit
 ```
-→ Recon:         nmap, whois, dnsenum  
+→ Osint:         Recon-ng, Spiderfoot 
+→ Recon:         nmap, whois 
 → Web Security:  burpsuite, gobuster, nikto  
-→ Bruteforce:    hydra, medusa  
-→ Wireless:      aircrack-ng, besside-ng  
-→ Forensics:     strings, binwalk, autopsy, volatility, sleuthkit, exiftool  
-→ Network:       curl, netcat, tcpdump
+→ Bruteforce:    hydra, patator, dirbuster  
+→ Wireless:      aircrack-ng 
+→ Forensics:     exiftool  
+→ Network:       curl
 ```
 
 ---
