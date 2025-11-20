@@ -11,6 +11,8 @@ Appassionato di Linux, cybersecurity e scripting.
 Studio presso ENAIP Torino – Via del Ridotto 5.
 Attualmente sto studiando SQL.
 ```
+![Cybersecurity GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV1cnJ1ajR4anVycjF6Z2hmbXBnZHZiZjVsdzk1bHBqb3oycXZuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 📍 **Posizione scuola:**  
 
